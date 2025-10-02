@@ -184,7 +184,7 @@ package-mode = false
   # 'urllib3; platform_python_implementation != "PyPy" and python_version >= "3.10"'
   # (https://pypi.org/pypi/vcrpy/7.0.0/json)
   vcrpy = { version = "^7.0.0", markers = "platform_python_implementation != 'PyPy' and python_version >= \"3.10\"" }
-  poethepoet = "^0.32.2"
+  poethepoet = "^0.37.0"
   ipdb = "^0.13.13"
 
 [tool.deptry]
