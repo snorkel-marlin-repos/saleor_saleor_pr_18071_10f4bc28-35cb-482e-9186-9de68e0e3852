@@ -61,7 +61,7 @@ package-mode = false
   [tool.poetry.dependencies]
   python = "~3.12"
   Adyen = "^4.0.0"
-  asgiref = "^3.7.2"
+  asgiref = "^3.9.2"
   Authlib = "^1.6.0"
   authorizenet = "^1.1.5"
   azure-common = "^1.1.28"
